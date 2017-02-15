@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
+    <header> <!-- hello -->
         <div class="container">
             <h1>PHP Quizzer</h1>
         </div>
